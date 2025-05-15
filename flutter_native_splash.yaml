@@ -1,0 +1,7 @@
+flutter_native_splash:
+  android: true
+  ios: true
+  web: true
+
+  color: "#0b6666"
+  image: "assets/png/pretium_logo_icon.png"

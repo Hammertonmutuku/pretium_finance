@@ -29,7 +29,7 @@ class _SplashPageState extends State<SplashPage> {
           Container(
             height: MediaQuery.of(context).size.height * 1,
             width: MediaQuery.of(context).size.width,
-            color: const Color(0xFF034D94),
+            color: const Color(0xFF0b6666),
             child: Row(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
